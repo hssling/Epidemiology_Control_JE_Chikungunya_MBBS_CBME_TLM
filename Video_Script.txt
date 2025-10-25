@@ -1,0 +1,57 @@
+# Learning Video Script: Epidemiology and Control Measures of JE and Chikungunya (Indian Context)
+
+## Video Title: Understanding Japanese Encephalitis and Chikungunya in India: A Guide for MBBS Students
+
+### Introduction (0:00 - 0:30)
+[Visual: Map of India with mosquito icons, NVBDCP logo, title screen]
+Narrator: "Welcome to this educational video on Japanese Encephalitis (JE) and Chikungunya, two major mosquito-borne diseases in India. As MBBS students, understanding these is crucial for public health. We'll cover epidemiology, symptoms, and control measures with Indian context. Let's dive in!"
+
+### Section 1: Japanese Encephalitis (0:30 - 3:00)
+[Visual: Map of India highlighting JE-endemic states like UP, Bihar, Assam, mosquito animation]
+Narrator: "First, Japanese Encephalitis. Caused by JEV, transmitted by Culex tritaeniorhynchus. Endemic in 24 countries, but in India, it's a major issue in states like Uttar Pradesh, Bihar, and Assam. Annual cases ~100,000 globally, high in India, mostly children under 15. Outbreaks during monsoon, linked to rice farming.
+
+Burden: 30% fatality, 30-50% survivors with neurological damage.
+
+Transmission: Mosquito-pig/bird cycle. High in rural India.
+
+Clinical Features: 4-14 days incubation. Mild: fever, headache. Severe: encephalitis, seizures.
+
+Diagnosis: IgM ELISA via IDSP.
+
+Treatment: Supportive, rehabilitation.
+
+Prevention: SA 14-14-2 vaccine in UIP, campaigns in endemic states. NVBDCP fogging, repellents."
+
+[Visual: Indian vaccination campaign footage, transmission diagrams]
+
+### Section 2: Chikungunya (3:00 - 5:30)
+[Visual: Map of India showing 2006 outbreak states, Aedes mosquito]
+Narrator: "Now, Chikungunya, caused by CHIKV, transmitted by Aedes aegypti/albopictus. Global spread, but in India, 2006 outbreak affected 1.3 million in Kerala, Karnataka, Maharashtra. Recent surges in Delhi, Punjab. Monsoon-linked, urban water storage.
+
+Burden: Acute joint pain, chronic disability.
+
+Transmission: Day-biting mosquitoes, human cycle.
+
+Clinical Features: 4-8 days incubation. Fever, severe joint pain, rash. Pain lasts months/years.
+
+Diagnosis: RT-PCR, serology.
+
+Treatment: Paracetamol, rest. Avoid NSAIDs.
+
+Prevention: NVBDCP source reduction, eliminate breeding sites. Ixchiq vaccine under review."
+
+[Visual: Outbreak footage, prevention animations]
+
+### Section 3: Comparative Analysis (5:30 - 6:30)
+[Visual: Comparison table with Indian stats]
+Narrator: "Similarities: Both mosquito-borne, prevalent in India, controlled by NVBDCP. Differences: JE - encephalitis, high fatality; Chikungunya - joint pain, chronic."
+
+### Section 4: Control Measures (6:30 - 7:30)
+[Visual: NVBDCP icons, vaccination drives]
+Narrator: "In India: JE vaccination in UIP, Chikungunya source reduction. Vector control, personal protection. Surveillance via IDSP."
+
+### Conclusion (7:30 - 8:00)
+[Visual: Call to action, NVBDCP logo]
+Narrator: "As future doctors, prevent these diseases. Refer to NVBDCP and WHO. Stay safe!"
+
+[End screen: References, subscribe prompt]

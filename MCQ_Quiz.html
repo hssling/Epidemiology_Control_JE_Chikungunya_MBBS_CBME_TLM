@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCQ Quiz: JE and Chikungunya</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .question { margin-bottom: 20px; }
+        .options { margin-left: 20px; }
+        button { padding: 10px; background: #007bff; color: white; border: none; cursor: pointer; }
+        #result { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>MCQ Quiz: Epidemiology and Control Measures of JE and Chikungunya</h1>
+    <form id="quizForm">
+        <div class="question">
+            <p>1. What is the primary vector for Japanese Encephalitis?</p>
+            <div class="options">
+                <input type="radio" name="q1" value="A"> A) Aedes aegypti<br>
+                <input type="radio" name="q1" value="B"> B) Culex tritaeniorhynchus<br>
+                <input type="radio" name="q1" value="C"> C) Anopheles gambiae<br>
+                <input type="radio" name="q1" value="D"> D) Mansonia
+            </div>
+        </div>
+        <div class="question">
+            <p>2. Which disease is characterized by chronic joint pain?</p>
+            <div class="options">
+                <input type="radio" name="q2" value="A"> A) Japanese Encephalitis<br>
+                <input type="radio" name="q2" value="B"> B) Chikungunya<br>
+                <input type="radio" name="q2" value="C"> C) Dengue<br>
+                <input type="radio" name="q2" value="D"> D) Zika
+            </div>
+        </div>
+        <div class="question">
+            <p>3. What is the case-fatality rate for JE?</p>
+            <div class="options">
+                <input type="radio" name="q3" value="A"> A) 10%<br>
+                <input type="radio" name="q3" value="B"> B) 30%<br>
+                <input type="radio" name="q3" value="C"> C) 50%<br>
+                <input type="radio" name="q3" value="D"> D) 70%
+            </div>
+        </div>
+        <div class="question">
+            <p>4. For Chikungunya, diagnosis in the first week uses:</p>
+            <div class="options">
+                <input type="radio" name="q4" value="A"> A) RT-PCR<br>
+                <input type="radio" name="q4" value="B"> B) IgM ELISA<br>
+                <input type="radio" name="q4" value="C"> C) CSF Analysis<br>
+                <input type="radio" name="q4" value="D"> D) Blood smear
+            </div>
+        </div>
+        <div class="question">
+            <p>5. Common prevention measure for both diseases:</p>
+            <div class="options">
+                <input type="radio" name="q5" value="A"> A) Vaccination only<br>
+                <input type="radio" name="q5" value="B"> B) Vector control<br>
+                <input type="radio" name="q5" value="C"> C) Antivirals<br>
+                <input type="radio" name="q5" value="D"> D) Isolation
+            </div>
+        </div>
+        <div class="question">
+            <p>6. JE is endemic in how many countries?</p>
+            <div class="options">
+                <input type="radio" name="q6" value="A"> A) 10<br>
+                <input type="radio" name="q6" value="B"> B) 24<br>
+                <input type="radio" name="q6" value="C"> C) 50<br>
+                <input type="radio" name="q6" value="D"> D) 100
+            </div>
+        </div>
+        <div class="question">
+            <p>7. Annual JE cases globally are approximately:</p>
+            <div class="options">
+                <input type="radio" name="q7" value="A"> A) 10,000<br>
+                <input type="radio" name="q7" value="B"> B) 100,000<br>
+                <input type="radio" name="q7" value="C"> C) 1,000,000<br>
+                <input type="radio" name="q7" value="D"> D) 10,000,000
+            </div>
+        </div>
+        <div class="question">
+            <p>8. JE transmission cycle involves:</p>
+            <div class="options">
+                <input type="radio" name="q8" value="A"> A) Mosquito-Human<br>
+                <input type="radio" name="q8" value="B"> B) Mosquito-Pig/Bird<br>
+                <input type="radio" name="q8" value="C"> C) Human-Human<br>
+                <input type="radio" name="q8" value="D"> D) Bird-Human
+            </div>
+        </div>
+        <div class="question">
+            <p>9. Incubation period for JE is:</p>
+            <div class="options">
+                <input type="radio" name="q9" value="A"> A) 1-3 days<br>
+                <input type="radio" name="q9" value="B"> B) 4-14 days<br>
+                <input type="radio" name="q9" value="C"> C) 15-30 days<br>
+                <input type="radio" name="q9" value="D"> D) 30-60 days
+            </div>
+        </div>
+        <div class="question">
+            <p>10. Severe JE symptoms include:</p>
+            <div class="options">
+                <input type="radio" name="q10" value="A"> A) Joint pain<br>
+                <input type="radio" name="q10" value="B"> B) Encephalitis<br>
+                <input type="radio" name="q10" value="C"> C) Rash<br>
+                <input type="radio" name="q10" value="D"> D) Fever
+            </div>
+        </div>
+        <div class="question">
+            <p>11. Diagnosis for JE uses:</p>
+            <div class="options">
+                <input type="radio" name="q11" value="A"> A) RT-PCR<br>
+                <input type="radio" name="q11" value="B"> B) IgM ELISA<br>
+                <input type="radio" name="q11" value="C"> C) Blood culture<br>
+                <input type="radio" name="q11" value="D"> D) X-ray
+            </div>
+        </div>
+        <div class="question">
+            <p>12. Treatment for JE is:</p>
+            <div class="options">
+                <input type="radio" name="q12" value="A"> A) Antiviral<br>
+                <input type="radio" name="q12" value="B"> B) Supportive<br>
+                <input type="radio" name="q12" value="C"> C) Antibiotics<br>
+                <input type="radio" name="q12" value="D"> D) Surgery
+            </div>
+        </div>
+        <div class="question">
+            <p>13. JE vaccines are:</p>
+            <div class="options">
+                <input type="radio" name="q13" value="A"> A) Inactivated<br>
+                <input type="radio" name="q13" value="B"> B) Live attenuated<br>
+                <input type="radio" name="q13" value="C"> C) Both<br>
+                <input type="radio" name="q13" value="D"> D) None
+            </div>
+        </div>
+        <div class="question">
+            <p>14. Vector for Chikungunya is:</p>
+            <div class="options">
+                <input type="radio" name="q14" value="A"> A) Culex<br>
+                <input type="radio" name="q14" value="B"> B) Aedes<br>
+                <input type="radio" name="q14" value="C"> C) Anopheles<br>
+                <input type="radio" name="q14" value="D"> D) Mansonia
+            </div>
+        </div>
+        <div class="question">
+            <p>15. Chikungunya outbreaks are common in:</p>
+            <div class="options">
+                <input type="radio" name="q15" value="A"> A) Winter<br>
+                <input type="radio" name="q15" value="B"> B) Rainy season<br>
+                <input type="radio" name="q15" value="C"> C) Dry season<br>
+                <input type="radio" name="q15" value="D"> D) Summer
+            </div>
+        </div>
+        <div class="question">
+            <p>16. Chikungunya pain lasts:</p>
+            <div class="options">
+                <input type="radio" name="q16" value="A"> A) Days<br>
+                <input type="radio" name="q16" value="B"> B) Weeks to years<br>
+                <input type="radio" name="q16" value="C"> C) Hours<br>
+                <input type="radio" name="q16" value="D"> D) Minutes
+            </div>
+        </div>
+        <div class="question">
+            <p>17. Chikungunya diagnosis after first week:</p>
+            <div class="options">
+                <input type="radio" name="q17" value="A"> A) RT-PCR<br>
+                <input type="radio" name="q17" value="B"> B) Serology<br>
+                <input type="radio" name="q17" value="C"> C) CSF<br>
+                <input type="radio" name="q17" value="D"> D) Urine test
+            </div>
+        </div>
+        <div class="question">
+            <p>18. Treatment for Chikungunya avoids:</p>
+            <div class="options">
+                <input type="radio" name="q18" value="A"> A) Paracetamol<br>
+                <input type="radio" name="q18" value="B"> B) NSAIDs<br>
+                <input type="radio" name="q18" value="C"> C) Fluids<br>
+                <input type="radio" name="q18" value="D"> D) Antibiotics
+            </div>
+        </div>
+        <div class="question">
+            <p>19. Prevention for Chikungunya includes:</p>
+            <div class="options">
+                <input type="radio" name="q19" value="A"> A) Vaccination<br>
+                <input type="radio" name="q19" value="B"> B) Eliminate breeding sites<br>
+                <input type="radio" name="q19" value="C"> C) Antivirals<br>
+                <input type="radio" name="q19" value="D"> D) Masks
+            </div>
+        </div>
+        <div class="question">
+            <p>20. Both diseases are preventable by:</p>
+            <div class="options">
+                <input type="radio" name="q20" value="A"> A) Vector control<br>
+                <input type="radio" name="q20" value="B"> B) Vaccination only<br>
+                <input type="radio" name="q20" value="C"> C) Antibiotics<br>
+                <input type="radio" name="q20" value="D"> D) Quarantine
+            </div>
+        </div>
+        <button type="button" onclick="submitQuiz()">Submit Quiz</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        function submitQuiz() {
+            const answers = {
+                q1: 'B', q2: 'B', q3: 'B', q4: 'A', q5: 'B',
+                q6: 'B', q7: 'B', q8: 'B', q9: 'B', q10: 'B',
+                q11: 'B', q12: 'B', q13: 'C', q14: 'B', q15: 'B',
+                q16: 'B', q17: 'B', q18: 'B', q19: 'B', q20: 'A'
+            };
+            let score = 0;
+            for (let q in answers) {
+                const selected = document.querySelector(`input[name="${q}"]:checked`);
+                if (selected && selected.value === answers[q]) {
+                    score++;
+                }
+            }
+            document.getElementById('result').innerHTML = `Your score: ${score}/20`;
+        }
+    </script>
+</body>
+</html>
